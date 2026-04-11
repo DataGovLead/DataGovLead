@@ -1,8 +1,8 @@
 # DataGovLead
 
-┌──────────────────────────────────────────────────────────────┐
-│  DATA STRATEGY  •  GOVERNANCE  •  VISUAL ANALYTICS          │
-└──────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│  DATA STRATEGY  •  GOVERNANCE  •  VISUAL ANALYTICS        │
+└───────────────────────────────────────────────────────────┘
 
 **Turning complex data into trusted metrics, clear ownership, and decision-ready dashboards.**
 
@@ -110,6 +110,6 @@ I’m especially interested in work that improves:
 **Role:** Data Strategy Lead  
 **Focus:** Governance, trusted metrics, and visual analytics
 
-┌──────────────────────────────────────────────────────────────┐
-│  Building practical governance + visualization capability   │
-└──────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│  Building practical governance + visualization capability │
+└───────────────────────────────────────────────────────────┘
