@@ -115,4 +115,4 @@ I’m especially interested in work that improves:
 ┌───────────────────────────────────────────────────────────┐
 │  Building practical governance + visualization capability │
 └───────────────────────────────────────────────────────────┘
-</pre>pre>
+</pre>
