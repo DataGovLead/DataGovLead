@@ -18,7 +18,7 @@ I’m building practical work in **data strategy**, **data governance**, and **d
 - Python and SQL analytics
 
 ## In Progress
-- `datagov-visualization`
+- datagov-visualization
 - governance scorecards
 - dashboard prototypes
 
