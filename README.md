@@ -1,9 +1,14 @@
 # DataGovLead
 
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│  DATA STRATEGY • GOVERNANCE • VISUAL ANALYTICS              │
+└──────────────────────────────────────────────────────────────┘
+
 ┌───────────────────────────────────────────────────────────┐
 │  DATA STRATEGY  •  GOVERNANCE  •  VISUAL ANALYTICS        │
 └───────────────────────────────────────────────────────────┘
-
+</pre>
 **Turning complex data into trusted metrics, clear ownership, and decision-ready dashboards.**
 
 I’m building my profile around **data strategy**, **data governance**, and **data visualization**. My focus is on creating practical systems for **trusted reporting**, **governance KPIs**, **metadata visibility**, and **executive-ready analytics**.
