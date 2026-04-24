@@ -2,7 +2,7 @@
 
 <pre>
 ┌───────────────────────────────────────────────────────────┐
-│  DATA STRATEGY • GOVERNANCE • VISUAL ANALYTICS            │
+│  DATA STRATEGY • GOVERNANCE • VISUALISATIONS              │
 └───────────────────────────────────────────────────────────┘
 </pre>
 
