@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
-  <img alt="Ron Finn — Data strategy for AI-enabled biotechnology" src="./assets/profile-header-light.svg" width="100%">
+  <img alt="Ron Finn — Data strategy for AI-enabled Drug Discovery" src="./assets/profile-header-light.svg" width="100%">
 </picture>
 
 <p align="center">
