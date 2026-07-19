@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ron Finn</title>
+  <desc id="desc">Data strategy for AI-enabled biotechnology</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#dbe4ee" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="24" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="298" rx="24" fill="url(#grid)" opacity="0.65"/>
+  <rect x="0" y="0" width="14" height="300" rx="7" fill="url(#accent)"/>
+  <circle cx="1070" cy="74" r="112" fill="none" stroke="#bfdbfe" stroke-width="2"/>
+  <circle cx="1070" cy="74" r="74" fill="none" stroke="#99f6e4" stroke-width="2"/>
+  <path d="M930 238 C1000 175 1088 179 1170 112" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+  <text x="72" y="88" fill="#0f172a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="25" font-weight="600" letter-spacing="5">RON FINN</text>
+  <text x="72" y="145" fill="#0f172a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="42" font-weight="750">Data strategy for AI-enabled biotechnology</text>
+  <text x="72" y="184" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="20">Governed data products · scientific computing · practical AI/ML systems</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="650" letter-spacing="1">
+    <rect x="72" y="218" width="156" height="38" rx="19" fill="#ffffff" stroke="#cbd5e1"/>
+    <text x="92" y="243" fill="#334155">DATA PRODUCTS</text>
+    <rect x="242" y="218" width="148" height="38" rx="19" fill="#ffffff" stroke="#cbd5e1"/>
+    <text x="263" y="243" fill="#334155">GOVERNANCE</text>
+    <rect x="404" y="218" width="182" height="38" rx="19" fill="#ffffff" stroke="#cbd5e1"/>
+    <text x="425" y="243" fill="#334155">SCIENTIFIC DATA</text>
+    <rect x="600" y="218" width="170" height="38" rx="19" fill="#ffffff" stroke="#cbd5e1"/>
+    <text x="621" y="243" fill="#334155">AI/ML SYSTEMS</text>
+  </g>
+</svg>
