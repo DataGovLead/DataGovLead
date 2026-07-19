@@ -1,0 +1,18 @@
+{
+  "username": "DataGovLead",
+  "featured_projects": [
+    {
+      "repository": "AdvancedBiomedicalAgent",
+      "display_name": "Advanced Biomedical Agent",
+      "summary": "Integrates major public biomedical sources into PostgreSQL and exposes LLM-friendly search tools for drugs, targets, trials, safety, and regulatory data.",
+      "stack": [
+        "Python",
+        "PostgreSQL",
+        "Biomedical data",
+        "AI agents"
+      ],
+      "status": "Active",
+      "allow_fork": false
+    }
+  ]
+}
